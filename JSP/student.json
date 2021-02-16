@@ -1,0 +1,14 @@
+[
+{
+"code" : "S001",
+"name" : "aaa",
+"dept" : "aaa",
+"phone" : "123-4567"
+},
+{
+"code" : "S999",
+"name" : "James",
+"dept" : "Math",
+"phone" : "123-123"
+}
+]
